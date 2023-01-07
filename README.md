@@ -13,6 +13,7 @@
 ## Development Setup
 Clone the repository and run the following commands:
 ```
+git clone https://github.com/colonal/flutter_web3_example.git
 cd flutter_web3_example
 ```
 ### Add  API and Address
